@@ -1,4 +1,4 @@
-# Deep-laring-projects
+# Deep-learning-projects
 I'll upload my finished deep learning projects in this repo for updates
 
 
